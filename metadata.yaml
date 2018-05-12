@@ -1,0 +1,31 @@
+_repo: The-Care-and-Feeding-of-ChildrenA-Catechism-for-the-Use-of-Mothers-and-Children-s-Nurses_15484
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Holt, L. Emmett (Luther Emmett)
+    alias: Holt, Luther Emmett
+    birthdate: 1855
+    deathdate: 1924
+    gutenberg_agent_id: '6087'
+    url: http://www.gutenberg.org/2009/agents/6087
+    wikipedia: http://en.wikipedia.org/wiki/Luther_Emmett_Holt
+description: ''
+gutenberg_issued: '2005-03-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15484'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children -- Nutrition'
+- !lcc 'RJ'
+- !lcsh 'Child care'
+title: 'The Care and Feeding of Children
+
+  A Catechism for the Use of Mothers and Children''s Nurses'
+url: http://www.gutenberg.org/ebooks/15484
